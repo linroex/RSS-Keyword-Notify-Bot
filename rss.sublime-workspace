@@ -1,0 +1,304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"ob_e",
+				"ob_end_flush"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"ob_cl",
+				"ob_end_clean"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"das",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: boot",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dash",
+				"DashDoc: invoke Dash with selected word (syntax-sensitive)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"PHP Code Sniffer: sniff this file",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"php",
+				"Snippet: Throw Exception"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/RSS-Keyword-Notify-Bot/bot.php",
+		"/Users/linroex/Desktop/untitled.sublime-workspace",
+		"/Users/linroex/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/linroex/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/linroex/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/linroex/Desktop/index.php",
+		"/Users/linroex/Library/Application Support/Sublime Text 2/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Users/linroex/Library/Application Support/Sublime Text 2/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Applications/XAMPP/xamppfiles/htdocs/wp-register/engine.php",
+		"/Users/linroex/Documents/odie/布卡哇報名系統/wp-register/taxonomy.php",
+		"/Users/linroex/Desktop/untitled.sublime-project",
+		"/Users/linroex/Library/Application Support/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/Users/linroex/Desktop/a.php",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Users/linroex/Desktop/remal/includes/widgets.php",
+		"/Users/linroex/Desktop/remal/includes/widgets/widget-tabbed.php",
+		"/Users/linroex/Desktop/remal/js/tie-scripts.js",
+		"/Users/linroex/Desktop/remal/includes/widgets/widget-tagcloud.php",
+		"/Users/linroex/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/linroex/Desktop/remal/loop.php",
+		"/Users/linroex/Desktop/remal/functions/tie-likes.php",
+		"/private/var/folders/yp/b4nqvcrx6xb59msxff4jp9740000gn/C/com.diigo.awesomescreenshot/com.apple.IntlDataCache.le",
+		"/Users/linroex/Library/Preferences/com.diigo.awesomescreenshot.LSSharedFileList.plist",
+		"/Users/linroex/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/linroex/Library/Application Support/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/Users/linroex/Library/Application Support/Sublime Text 2/Packages/Phpcs/phpcs.sublime-settings",
+		"/Users/linroex/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/linroex/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/linroex/.ssh/aws-ubuntu.ppk",
+		"/Users/linroex/Documents/error_log",
+		"/Users/linroex/Documents/368.puca.cgds.com.tw",
+		"/Users/linroex/Documents/無標題 1.ods",
+		"/Users/linroex/Documents/無標題 1.xls",
+		"/Users/linroex/Documents/odie/remal/template-blog.php",
+		"/Users/linroex/Desktop/index.html",
+		"/Users/linroex/Desktop/index,html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"foreach",
+			"if",
+			"sms",
+			"session.save_path",
+			"5",
+			"html:5",
+			"5",
+			"e",
+			"5",
+			"ctrl",
+			"5",
+			"ctrl",
+			"5",
+			"prefix_parent-phone-state",
+			"space",
+			"//",
+			".so\n\n\n\nso",
+			".so\n\n\n\n.so",
+			"pdo",
+			"dll",
+			"so",
+			"[",
+			"#tabbed-widget",
+			"tagcloud",
+			"tabbed-widget",
+			"img",
+			"translate_tabs_to_spaces\n\n\ntranslate_tabs_to_spaces",
+			"5",
+			" ",
+			"show_error",
+			"}\n",
+			"br",
+			"5",
+			"html",
+			"5",
+			"html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"/Users/linroex/Desktop/index.html"
+			],
+			[
+				"",
+				"/Applications/XAMPP/xamppfiles/htdocs/test/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/linroex/Desktop/untitled.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true
+}
